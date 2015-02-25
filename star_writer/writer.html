@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Star Writer</title>
+</head>
+<body>
+	<div id='writer'></div>
+
+	<script>
+for (i = 1; i <= 200; i++)
+{
+	var j = i + 1;
+	document.getElementById('writer').innerHTML += "function star"+i+"(){$('#star"+i+"').animate({'background-color':'rgba(18,13,25,1.0)'},100,function(){$('#star"+i+"').animate({'background-color':'rgba(248,248,255,0.7)'},100,function(){star"+j+"();});});} <BR><BR>";
+}
+	</script>
+</body>
+</html>

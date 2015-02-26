@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 /*
 * Ilan Kleiman
 * February 10th 2015
@@ -7,7 +5,6 @@
 * http://ilankleiman.com
 */
 
->>>>>>> FETCH_HEAD
 $(document).ready(function()
 {
 	function rand()

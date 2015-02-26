@@ -1,6 +1,6 @@
 # Flikering-Night-Sky
 
-Live DEMO coming soon!
+DEMO: http://ilankleiman.com/demo/fns/index.html
 
 An animation of night sky, with flickering stars
 
